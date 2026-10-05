@@ -32,10 +32,10 @@
   "experience": [
     {
       "id": 1,
-      "title": "Information Security Specialist",
-      "company": "Company",
-      "date": "Present",
-      "description": "Monitoring and analysis of information-security incidents\nSIEM continuous monitoring of corporate security events\nCorrelation-rule alerts and incoming incidents analysis\nWindows/Linux, network and application logs\nSecurity tools and primary incident investigation\nSIEM log-source health and quality monitoring\nWindows/Linux + Active Directory user/group management",
+      "title": "SOC L2 Analyst",
+      "company": "JSC State technical service",
+      "date": "August 15, 2026",
+      "description": "Monitoring and analysis of information-security incidents\nSIEM continuous monitoring of corporate security events\nCorrelation-rule alerts and incoming incidents analysis\nWindows/Linux, network and application logs\nSecurity tools and primary incident investigation\nSIEM log-source health and quality monitoring\nWindows/Linux",
       "sort_order": 1
     }
   ],
