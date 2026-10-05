@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>HackYoU — Portfolio</title>
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<div class="mobile-topbar">
+  <div class="mobile-logo" data-logo></div>
+  <button class="menu-toggle" id="menuToggle" type="button" aria-label="Open menu" aria-expanded="false">☰</button>
+</div>
+<div class="layout">
+<aside class="sidebar" id="sidebar">
+  <div class="logo" data-logo></div>
+  <nav id="mainNav">
+    <a href="#home"><span>⌂</span>Home</a>
+    <a href="#about"><span>♙</span>About</a>
+    <a href="#experience"><span>▣</span>Experience</a>
+    <a href="#skills"><span>⚙</span>Skills</a>
+    <a href="#certifications"><span>♜</span>Certifications</a>
+    <a href="#projects"><span>◇</span>Projects</a>
+    <a href="#ctf"><span>⚑</span>CTF & Labs</a>
+    <a href="#gallery"><span>▧</span>Gallery</a>
+    <a href="#contacts"><span>✉</span>Contacts</a>
+  </nav>
+  <div class="side-bottom">&gt; keep_learning...<br>&nbsp;&nbsp;keep_going...</div>
+</aside>
+<main>
+<section class="hero" id="home">
+  <div class="hero-inner">
+    <div class="avatar" id="avatar"><span>⌁</span></div>
+    <div class="hero-content">
+      <div class="terminal">&gt;_</div>
+      <h1 id="nickname">HackYoU</h1>
+      <div class="subtitle" id="headline"></div>
+      <div class="tags" id="heroTags"></div>
+      <p class="hero-copy" id="heroText"></p>
+      <div class="socials" id="socials"></div>
+    </div>
+  </div>
+</section>
+<div class="grid">
+<section class="card photos">
+  <h2>▣ Photo</h2><div id="profilePhoto"></div>
+  <h2>▣ Photo on work</h2><div id="workPhoto"></div>
+</section>
+<section class="card about" id="about"><h2>♙ About Me</h2><div id="aboutText"></div><div class="meta" id="meta"></div></section>
+<section class="card experience" id="experience"><h2>▣ Work Experience</h2><div id="experienceList"></div></section>
+<section class="card skills" id="skills"><h2>⚙ Skills</h2><div id="skillsList"></div></section>
+<section class="card certs" id="certifications">
+  <div class="section-heading"><div><h2>♜ Certifications</h2><p>Certificates & professional achievements</p></div><span class="section-code">CERTS://</span></div>
+  <div id="certificatesList"></div>
+</section>
+<section class="card gallery" id="gallery"><h2>▧ Gallery</h2><div id="galleryList"></div></section>
+<section class="card project" id="projects"><h2>&lt;/&gt; Projects</h2><div id="projectsList"></div></section>
+<section class="card ctf" id="ctf"><h2>⚑ CTF & Labs</h2><div class="ctf-grid" id="ctfList"></div></section>
+<section class="card contacts" id="contacts"><h2>✉ Contacts</h2><div id="contactsList"></div></section>
+</div>
+<footer id="footer"></footer>
+</main>
+</div>
+<div class="lightbox" id="imageLightbox" aria-hidden="true">
+  <div class="lightbox-backdrop" data-close-lightbox></div>
+  <div class="lightbox-panel" role="dialog" aria-modal="true" aria-label="Image preview">
+    <button class="lightbox-close" type="button" data-close-lightbox aria-label="Close">×</button>
+    <div class="lightbox-title" id="lightboxTitle"></div>
+    <img id="lightboxImage" src="" alt="">
+  </div>
+</div>
+<script src="js/site.js" defer></script>
+</body>
+</html>

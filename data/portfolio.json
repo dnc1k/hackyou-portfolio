@@ -1,0 +1,376 @@
+{
+  "settings": {
+    "nickname": "HackYoU",
+    "full_name": "Danial",
+    "headline": "SOC L2 Analyst",
+    "hero_text": "Turning data into insights, helping to make the digital world a little safer.",
+    "location": "Kazakhstan",
+    "work_mode": "Remote / Office",
+    "availability": "Open to opportunities",
+    "about_1": "Hi! I'm Danial. I'm an information security specialist with practical experience monitoring and analyzing information-security incidents.",
+    "about_2": "I work with SIEM, analyze correlation-rule alerts, investigate incidents, and monitor log sources and security tools.",
+    "about_3": "I'm interested in Blue Team, SOC, Detection Engineering, threat analysis and corporate security monitoring.",
+    "linkedin": "https://www.linkedin.com/feed/",
+    "github": "#",
+    "telegram": "#",
+    "email": "hackyou@example.com",
+    "linkedin_label": "linkedin.com/in/yourname",
+    "github_label": "github.com/hackyou",
+    "telegram_label": "@dnc1k",
+    "avatar": "",
+    "profile_photo": "",
+    "work_photo": "",
+    "hero_bg": "assets/uploads/ee6c10da0718ff325bdb.png",
+    "footer_text": "Security / Analysis / Growth",
+    "quote": "Better systems. Safer people."
+  },
+  "hero_tags": [
+    "SOC Analyst",
+    "Blue Team",
+    "Detection Engineering"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Information Security Specialist",
+      "company": "Company",
+      "date": "Present",
+      "description": "Monitoring and analysis of information-security incidents\nSIEM continuous monitoring of corporate security events\nCorrelation-rule alerts and incoming incidents analysis\nWindows/Linux, network and application logs\nSecurity tools and primary incident investigation\nSIEM log-source health and quality monitoring\nWindows/Linux + Active Directory user/group management",
+      "sort_order": 1
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "category": "Security & Monitoring",
+      "name": "SIEM",
+      "sort_order": 0
+    },
+    {
+      "id": 2,
+      "category": "Security & Monitoring",
+      "name": "EDR",
+      "sort_order": 1
+    },
+    {
+      "id": 3,
+      "category": "Security & Monitoring",
+      "name": "XDR",
+      "sort_order": 2
+    },
+    {
+      "id": 4,
+      "category": "Security & Monitoring",
+      "name": "DLP",
+      "sort_order": 3
+    },
+    {
+      "id": 5,
+      "category": "Security & Monitoring",
+      "name": "SOAR",
+      "sort_order": 4
+    },
+    {
+      "id": 6,
+      "category": "Security & Monitoring",
+      "name": "Incident Response",
+      "sort_order": 5
+    },
+    {
+      "id": 7,
+      "category": "Security & Monitoring",
+      "name": "Threat Analysis",
+      "sort_order": 6
+    },
+    {
+      "id": 8,
+      "category": "Systems & Networks",
+      "name": "Windows",
+      "sort_order": 7
+    },
+    {
+      "id": 9,
+      "category": "Systems & Networks",
+      "name": "Linux",
+      "sort_order": 8
+    },
+    {
+      "id": 10,
+      "category": "Systems & Networks",
+      "name": "Active Directory",
+      "sort_order": 9
+    },
+    {
+      "id": 11,
+      "category": "Systems & Networks",
+      "name": "TCP/IP",
+      "sort_order": 10
+    },
+    {
+      "id": 12,
+      "category": "Systems & Networks",
+      "name": "DNS",
+      "sort_order": 11
+    },
+    {
+      "id": 13,
+      "category": "Systems & Networks",
+      "name": "HTTP/HTTPS",
+      "sort_order": 12
+    },
+    {
+      "id": 14,
+      "category": "Systems & Networks",
+      "name": "VPN",
+      "sort_order": 13
+    },
+    {
+      "id": 15,
+      "category": "Systems & Networks",
+      "name": "Firewall",
+      "sort_order": 14
+    },
+    {
+      "id": 16,
+      "category": "Systems & Networks",
+      "name": "IDS/IPS",
+      "sort_order": 15
+    },
+    {
+      "id": 17,
+      "category": "Programming & Scripting",
+      "name": "Python",
+      "sort_order": 16
+    },
+    {
+      "id": 18,
+      "category": "Programming & Scripting",
+      "name": "C++",
+      "sort_order": 17
+    },
+    {
+      "id": 19,
+      "category": "Programming & Scripting",
+      "name": "Bash",
+      "sort_order": 18
+    },
+    {
+      "id": 20,
+      "category": "Programming & Scripting",
+      "name": "PowerShell",
+      "sort_order": 19
+    },
+    {
+      "id": 21,
+      "category": "Tools",
+      "name": "Splunk",
+      "sort_order": 20
+    },
+    {
+      "id": 22,
+      "category": "Tools",
+      "name": "ELK",
+      "sort_order": 21
+    },
+    {
+      "id": 23,
+      "category": "Tools",
+      "name": "QRadar",
+      "sort_order": 22
+    },
+    {
+      "id": 24,
+      "category": "Tools",
+      "name": "Wireshark",
+      "sort_order": 23
+    },
+    {
+      "id": 25,
+      "category": "Tools",
+      "name": "Nmap",
+      "sort_order": 24
+    },
+    {
+      "id": 26,
+      "category": "Tools",
+      "name": "Metasploit",
+      "sort_order": 25
+    },
+    {
+      "id": 27,
+      "category": "Tools",
+      "name": "Burp Suite",
+      "sort_order": 26
+    },
+    {
+      "id": 28,
+      "category": "Tools",
+      "name": "VirusTotal",
+      "sort_order": 27
+    },
+    {
+      "id": 29,
+      "category": "Tools",
+      "name": "Shodan",
+      "sort_order": 28
+    },
+    {
+      "id": 30,
+      "category": "Tools",
+      "name": "TheHive",
+      "sort_order": 29
+    },
+    {
+      "id": 31,
+      "category": "Tools",
+      "name": "MISP",
+      "sort_order": 30
+    },
+    {
+      "id": 32,
+      "category": "Tools",
+      "name": "FortiMail",
+      "sort_order": 31
+    },
+    {
+      "id": 33,
+      "category": "Tools",
+      "name": "Fortinet",
+      "sort_order": 32
+    },
+    {
+      "id": 34,
+      "category": "Tools",
+      "name": "CyberArk",
+      "sort_order": 33
+    },
+    {
+      "id": 35,
+      "category": "Tools",
+      "name": "PAM",
+      "sort_order": 34
+    },
+    {
+      "id": 36,
+      "category": "Tools",
+      "name": "WAF",
+      "sort_order": 35
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "name": "BTL1",
+      "issuer": "Blue Team Level 1",
+      "date": "",
+      "description": "",
+      "image": "assets/uploads/6887739bce0a976b6672.jpg",
+      "file": "",
+      "link": "",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "name": "eJPT",
+      "issuer": "eLearnSecurity",
+      "date": "",
+      "description": "",
+      "image": "assets/uploads/08f0dfe7de16f0d3183e.jpg",
+      "file": "assets/uploads/1e9def87d98ed14b58ec.jpg",
+      "link": "https://certs.ine.com/39782144-42f8-4dd9-8706-7c7c079c3d53",
+      "sort_order": 2
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "title": "kazhackstan 1",
+      "image": "assets/uploads/9017b7a3a5c38338ba8f.jpg",
+      "sort_order": 0
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "assets/uploads/e6697d6f43dc1b156cd4.jpg",
+      "sort_order": 0
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "assets/uploads/b1341c35c04713450f89.jpg",
+      "sort_order": 0
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "assets/uploads/432417707e9497a019ad.jpg",
+      "sort_order": 0
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "assets/uploads/58dd1ae147cc2932f23b.jpg",
+      "sort_order": 0
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "assets/uploads/56e0fcf1afcc1b2adebf.jpg",
+      "sort_order": 0
+    },
+    {
+      "id": 7,
+      "title": "",
+      "image": "assets/uploads/0347abb75c01b1da480d.jpg",
+      "sort_order": 0
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Hybrid Web Vulnerability Detection System",
+      "description": "Python-based web application combining signature and behavioral analysis.",
+      "tags": "Python,ML,Web",
+      "link": "",
+      "sort_order": 1
+    }
+  ],
+  "ctf": [
+    {
+      "id": 1,
+      "name": "cyberqupiya.kz",
+      "status": "Actiive",
+      "description": "",
+      "link": "https://cyberqupiya.kz/users/HackYoU?lang=ru",
+      "icon": "assets/uploads/78437fd0b0f8cfd01d95.png",
+      "sort_order": 2
+    },
+    {
+      "id": 2,
+      "name": "Hack the box",
+      "status": "",
+      "description": "",
+      "link": "https://cyberqupiya.kz/users/HackYoU?lang=ru",
+      "icon": "",
+      "sort_order": 99
+    },
+    {
+      "id": 3,
+      "name": "Try Hack Me",
+      "status": "",
+      "description": "",
+      "link": "https://cyberqupiya.kz/users/HackYoU?lang=ru",
+      "icon": "",
+      "sort_order": 99
+    },
+    {
+      "id": 4,
+      "name": "Duckerz",
+      "status": "",
+      "description": "",
+      "link": "https://cyberqupiya.kz/users/HackYoU?lang=ru",
+      "icon": "",
+      "sort_order": 99
+    }
+  ]
+}
