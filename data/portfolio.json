@@ -339,7 +339,7 @@
     {
       "id": 1,
       "name": "cyberqupiya.kz",
-      "status": "Actiive",
+      "status": "Active",
       "description": "",
       "link": "https://cyberqupiya.kz/users/HackYoU?lang=ru",
       "icon": "assets/uploads/78437fd0b0f8cfd01d95.png",
@@ -348,28 +348,46 @@
     {
       "id": 2,
       "name": "Hack the box",
-      "status": "",
-      "description": "",
-      "link": "https://cyberqupiya.kz/users/HackYoU?lang=ru",
+      "status": "Active",
+      "description": "Active",
+      "link": "https://profile.hackthebox.com/profile/019cffa8-cf6a-708f-b21d-bdea3d759854?utm_medium=copy_url",
       "icon": "",
       "sort_order": 99
     },
     {
       "id": 3,
       "name": "Try Hack Me",
-      "status": "",
+      "status": "Active",
       "description": "",
-      "link": "https://cyberqupiya.kz/users/HackYoU?lang=ru",
-      "icon": "",
+      "link": "https://tryhackme.com/p/HackYoU",
+      "icon": "https://miro.medium.com/0*rzo5TqptJqMYUkwg",
       "sort_order": 99
     },
     {
       "id": 4,
       "name": "Duckerz",
-      "status": "",
+      "status": "Active",
       "description": "",
-      "link": "https://cyberqupiya.kz/users/HackYoU?lang=ru",
-      "icon": "",
+      "link": "https://duckerz.ru/profile/607",
+      "icon": "https://ctftime.org/media/team/photo_2025-02-05_21-49-11.jpg",
+      "sort_order": 99
+    }
+     {
+      "id": 5,
+      "name": "TaipanByte",
+      "status": "Active",
+      "description": "",
+      "link": "https://ctf.taipanbyte.ru/users/739",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-r2lo0IV3qGepUiIc8lfVdplJiEYtR3FMeTOx0dj0LpzUlmyw_fFtIGX&s=10",
+      "sort_order": 99
+    }
+    {
+      "id": 6,
+      "name": "БАГодельня",
+      "status": "Active",
+      "description": "",
+      "link": "https://ctf.bug-makers.ru/users/28389",
+      "icon": "https://ctftime.org/media/team/bug_makers_flag.png",
       "sort_order": 99
     }
   ]
