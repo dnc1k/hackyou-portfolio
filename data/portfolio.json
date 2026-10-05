@@ -10,7 +10,7 @@
     "about_1": "Hi! I'm Danial. I'm an information security specialist with practical experience monitoring and analyzing information-security incidents.",
     "about_2": "I work with SIEM, analyze correlation-rule alerts, investigate incidents, and monitor log sources and security tools.",
     "about_3": "I'm interested in Blue Team, SOC, Detection Engineering, threat analysis and corporate security monitoring.",
-    "linkedin": "https://www.linkedin.com/feed/",
+    "linkedin": "https://www.linkedin.com/in/danial-maitanov-73a098437/",
     "github": "#",
     "telegram": "#",
     "email": "hackyou@example.com",
@@ -20,8 +20,8 @@
     "avatar": "",
     "profile_photo": "",
     "work_photo": "",
-    "hero_bg": "assets/uploads/ee6c10da0718ff325bdb.png",
-    "footer_text": "Security / Analysis / Growth",
+    "hero_bg": "assets/uploads/Ночной_киберпанк_офис_над_городом2.png",
+    "footer_text": "Security / Analysis / CTF player",
     "quote": "Better systems. Safer people."
   },
   "hero_tags": [
