@@ -260,21 +260,21 @@
   "certificates": [
     {
       "id": 1,
-      "name": "BTL1",
+      "name": "BTL1 Certificate",
       "issuer": "Blue Team Level 1",
-      "date": "",
-      "description": "",
+      "date": "2026-09-12",
+      "description": "Certification ID: 359696533",
       "image": "assets/uploads/6887739bce0a976b6672.jpg",
-      "file": "",
-      "link": "",
+      "file": "assets/uploads/BTL1_cert.pdf",
+      "link": "https://elearning.centri.org/verify",
       "sort_order": 1
     },
     {
       "id": 2,
-      "name": "eJPT",
+      "name": "eJPT Certificate",
       "issuer": "eLearnSecurity",
-      "date": "",
-      "description": "",
+      "date": "2026-09-13",
+      "description": "Certification ID: 359696533",
       "image": "assets/uploads/08f0dfe7de16f0d3183e.jpg",
       "file": "assets/uploads/1e9def87d98ed14b58ec.jpg",
       "link": "https://certs.ine.com/39782144-42f8-4dd9-8706-7c7c079c3d53",
@@ -284,43 +284,43 @@
   "gallery": [
     {
       "id": 1,
-      "title": "kazhackstan 1",
+      "title": "KazHackStan 1",
       "image": "assets/uploads/9017b7a3a5c38338ba8f.jpg",
       "sort_order": 0
     },
     {
       "id": 2,
-      "title": "",
+      "title": "KazHackStan 2",
       "image": "assets/uploads/e6697d6f43dc1b156cd4.jpg",
       "sort_order": 0
     },
     {
       "id": 3,
-      "title": "",
+      "title": "KazHackStan 3",
       "image": "assets/uploads/b1341c35c04713450f89.jpg",
       "sort_order": 0
     },
     {
       "id": 4,
-      "title": "",
+      "title": "KazHackStan 4",
       "image": "assets/uploads/432417707e9497a019ad.jpg",
       "sort_order": 0
     },
     {
       "id": 5,
-      "title": "",
+      "title": "KazHackStan 5",
       "image": "assets/uploads/58dd1ae147cc2932f23b.jpg",
       "sort_order": 0
     },
     {
       "id": 6,
-      "title": "",
+      "title": "Took the second place on CyberQupiya, having solved all tasks",
       "image": "assets/uploads/56e0fcf1afcc1b2adebf.jpg",
       "sort_order": 0
     },
     {
       "id": 7,
-      "title": "",
+      "title": "KazHackStan 6",
       "image": "assets/uploads/0347abb75c01b1da480d.jpg",
       "sort_order": 0
     }
